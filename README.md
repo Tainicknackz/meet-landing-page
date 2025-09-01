@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [git@github.com:Tainicknackz/meet-landing-page.git]
-- Live Site URL: [https://comforting-smakager-7d6f2f.netlify.app/]
+- Solution URL: (git@github.com:Tainicknackz/meet-landing-page.git)
+- Live Site URL: (https://comforting-smakager-7d6f2f.netlify.app/)
 
 ## My process
 
@@ -50,4 +50,4 @@ I learnt a lot about media queries and responsiveness.
 
 ## Author
 
-- Frontend Mentor -([https://www.frontendmentor.io/profile/Tainicknackz)
+- Frontend Mentor -(https://www.frontendmentor.io/profile/Tainicknackz)
