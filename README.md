@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (git@github.com:Tainicknackz/meet-landing-page.git)
+- Solution URL: (https://github.com/Tainicknackz/meet-landing-page)
 - Live Site URL: (https://comforting-smakager-7d6f2f.netlify.app/)
 
 ## My process
