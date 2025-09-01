@@ -260,7 +260,6 @@ body {
   background-blend-mode: multiply;
 
   position: relative;
-  top: -11%;
   z-index: -1;
 }
 
@@ -372,7 +371,7 @@ body {
   }
 }
 
-@media (min-width: 880px) and (max-width: 1500px) {
+@media (min-width: 880px) and (max-width: 1300px) {
   /* ************ */
   /* HERO SECTION */
   .hero__header {
@@ -447,7 +446,7 @@ body {
   }
 }
 
-@media (min-width: 1501px) {
+@media (min-width: 1301px) {
   .hero {
     display: grid;
     grid-template-columns: repeat(6, 1fr);

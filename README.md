@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Tainicknackz/meet-landing-page)
-- Live Site URL: (https://comforting-smakager-7d6f2f.netlify.app/)
+- Live Site URL: (https://sage-stroopwafel-3e23bb.netlify.app/)
 
 ## My process
 
