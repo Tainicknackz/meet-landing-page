@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![./screenshots/Screenshot-Desktop.png]
-![./screenshots/Screenshot-Tablet.png]
-![./screenshots/Screenshot-Mobile.png]
+![Desktop screenshot](./screenshots/Screenshot-Desktop.png)
+![Tablet screenshot](./screenshots/Screenshot-Tablet.png)
+![Mobile screenshot](./screenshots/Screenshot-Mobile.png)
 
 ### Links
 
@@ -50,4 +50,4 @@ I learnt a lot about media queries and responsiveness.
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Tainicknackz]
+- Frontend Mentor -([https://www.frontendmentor.io/profile/Tainicknackz)
